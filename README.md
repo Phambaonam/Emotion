@@ -4,7 +4,7 @@
 * [entities](https://www.npmjs.com/package/entities):  used to encode / decode XML / HTML
 
 ## How to run
-* git clone 
+* git clone https://github.com/Phambaonam/Emotion.git
 * cd Emotion/
 * npm install
 * cd crawler
