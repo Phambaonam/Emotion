@@ -1,0 +1,22 @@
+{
+  "name": "emotion",
+  "version": "1.0.0",
+  "description": "crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -S"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "Doremon",
+  "repository": "https://github.com/Phambaonam/Emotion.git",
+  "license": "MIT",
+  "dependencies": {
+    "entities": "^1.1.1",
+    "nightmare": "^2.10.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
