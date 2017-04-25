@@ -5,7 +5,7 @@ const Nightmare = require('nightmare')
 const nightmare = Nightmare({show: true})
 const fs = require('fs')
 const entities = require("entities");
-const address = 'http://emojipedia.org/people/'
+const address = 'http://emojipedia.org/activity/'
 nightmare
     .goto(address)
     .evaluate(function () {
